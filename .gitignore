@@ -6,3 +6,6 @@
 /.vs
 *.filters
 *.user
+/LabTp1/LabTp1/x64/Debug
+/LabTp1/x64/Debug
+/CppProperties.json
